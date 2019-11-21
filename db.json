@@ -1,7 +1,1 @@
-[{
-  "id": 1,
-  "firstname": "Hedda",
-  "lastname": "Rowan",
-  "email": "hrowan0@bbb.org",
-  "gender": "Female"
-}]
+[{"id": 1,"firstname": "Hedda","lastname": "Rowan","email": "hrowan0@bbb.org","gender": "Female"}]
