@@ -7,5 +7,14 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    {
+      "id": 6,
+      "firstname": "Pebrook",
+      "lastname": "Fannon",
+      "email": "pfannon5@liveinternet.ru",
+       "gender": "Male"    
+    }  
+  ]
 }
