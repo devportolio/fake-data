@@ -1,9 +1,11 @@
 {
-  "users": [{
-  "id": 1,
-  "firstname": "Hedda",
-  "lastname": "Rowan",
-  "email": "hrowan0@bbb.org",
-  "gender": "Female"
-}]
+  "users": [
+    {
+    "id": 1,
+    "firstname": "Hedda",
+    "lastname": "Rowan",
+    "email": "hrowan0@bbb.org",
+    "gender": "Female"
+    }
+  ]
 }
